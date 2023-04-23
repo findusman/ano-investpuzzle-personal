@@ -1,0 +1,13 @@
+node_modules
+build
+.idea
+
+*.env
+*.env.*
+!.env.example
+
+# migration
+src/migrations/*.json
+
+#video convert
+temp
