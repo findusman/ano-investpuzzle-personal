@@ -1,5 +1,4 @@
 node_modules
-build
 .idea
 
 *.env
@@ -11,3 +10,4 @@ src/migrations/*.json
 
 #video convert
 temp
+config.bat
